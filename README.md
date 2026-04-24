@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @bisht01-AM
-- 👀 I’m interested in mechatronics
-- 🌱 I’m currently learning htmls
+- 👀 I’m interested in mechatronics and computer science
+- 👌 I've completed HTML, CSS and Javascript
+- 🌱 I’m currently learning react native and Java
 - 💞️ I’m looking to collaborate on tech projects
-- 📫 How to reach me 
+- 📫 How to reach me an.drewbisht01@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I probably am late to sleep everyday
 
 <!---
 bisht01-AM/bisht01-AM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
