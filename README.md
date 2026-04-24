@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning react native and Java
 - 💞️ I’m looking to collaborate on tech projects
 - 📫 How to reach me an.drewbisht01@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Him, He
 - ⚡ Fun fact: I probably am late to sleep everyday
 
 <!---
